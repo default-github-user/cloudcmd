@@ -165,7 +165,7 @@
   },
 	"buildpacks": [
 		{
-			"url": "heroku-community/apt"
+			"url": "heroku-community/php"
 		},
 		{
 			"url": "heroku/nodejs"
