@@ -171,7 +171,7 @@
 			"url": "https://github.com/dwnld/heroku-buildpack-ffmpeg"
 		},
 		{
-			"url": "https://github.com/herdigiorgi/heroku-buildpack-tor"
+			"url": "https://github.com/vidbme/heroku-tor"
 		},
 		{
 			"url": "https://github.com/amivin/aria2-heroku"
