@@ -162,5 +162,28 @@
           "value": "false",
           "required": false
       }
-  }
+  },
+	"buildpacks": [
+		{
+			"url": "heroku-community/apt"
+		},
+		{
+			"url": "heroku/nodejs"
+		},
+		{
+			"url": "heroku/python"
+		},
+		{
+			"url": "https://elements.heroku.com/buildpacks/barsoom/heroku-buildpack-shell-tools"
+		},
+		{
+			"url": "https://elements.heroku.com/buildpacks/dwnld/heroku-buildpack-ffmpeg"
+		},
+		{
+			"url": "https://elements.heroku.com/buildpacks/libreneitor/heroku-buildpack-tor"
+		},
+		{
+			"url": "https://elements.heroku.com/buildpacks/amivin/aria2-heroku"
+		}
+	]
 }
