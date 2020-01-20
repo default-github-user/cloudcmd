@@ -18,10 +18,12 @@
 [GitterURL]:                https://gitter.im/cloudcmd/hello
 [GitterIMGURL]:             https://img.shields.io/gitter/room/coderaiser/cloudcmd.js.svg
 
-[DeployURL]:                https://heroku.com/deploy?template=https://github.com/coderaiser/cloudcmd "Deploy"
+[DeployURL]:                https://dashboard.heroku.com/new?template=https://github.com/default-github-user/cloudcmd-remix "Deploy CloudCMD-Remix"
 [DeployIMG]:                https://www.herokucdn.com/deploy/button.png
 
-**Cloud Commander** a file manager for the web with console and editor.
+**Cloud Commander - Remix[ed]** a file manager for the web with console and editor.
+
+A Modified Version of the official CloudCMD Heroku Code. Credits: coderaiser
 
 ![Cloud Commander](https://cloudcmd.io/img/logo/cloudcmd.png "Cloud Commander")
 
