@@ -165,16 +165,16 @@
   },
 	"buildpacks": [
 		{
-			"url": "https://elements.heroku.com/buildpacks/barsoom/heroku-buildpack-shell-tools"
+			"url": "https://github.com/barsoom/heroku-buildpack-shell-tools"
 		},
 		{
-			"url": "https://elements.heroku.com/buildpacks/dwnld/heroku-buildpack-ffmpeg"
+			"url": "https://github.com/dwnld/heroku-buildpack-ffmpeg"
 		},
 		{
-			"url": "https://elements.heroku.com/buildpacks/libreneitor/heroku-buildpack-tor"
+			"url": "https://github.com/herdigiorgi/heroku-buildpack-tor"
 		},
 		{
-			"url": "https://elements.heroku.com/buildpacks/amivin/aria2-heroku"
+			"url": "https://github.com/amivin/aria2-heroku"
 		}
 	]
 }
